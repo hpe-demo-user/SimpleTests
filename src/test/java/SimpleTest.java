@@ -3,7 +3,7 @@ import java.util.Random;
 import org.junit.*;
                                                                                        
 /**                                       
- *  Created by gadiel on 15/11/2016.                            
+ *  Created by gadiel on 15/11/2016.     test raluca                        
  */           
                     
 public class SimpleTest { 
